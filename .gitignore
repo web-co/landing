@@ -1,0 +1,7 @@
+*.zip
+*.log
+*.pdf
+*.psd
+/!images/*
+/nbproject/private/
+/nbproject
